@@ -1,6 +1,6 @@
 export default {
-    products:[
-    {
+    products: [
+       {
         _id: '1',
         name: "Slim shirt",
         category: 'Shirts',
@@ -9,7 +9,7 @@ export default {
         brand: 'Nike',
         rating: 4.5,
         numReviews: 10
-    },
+       },
     {
         _id: '2',
         name: "Fit shirt",
@@ -39,6 +39,6 @@ export default {
         brand: 'Nike',
         rating: 4.5,
         numReviews: 8
-    },
+    }
 ]
 }
